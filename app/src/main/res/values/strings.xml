@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StorageTest</string>
+    <string name="type_your_first_name">Type your First Name</string>
+    <string name="type_your_last_name">Type your Last Name</string>
+    <string name="type_your_full_address">Type your Full Address</string>
+    <string name="type_your_phone_number">Type your Phone Number</string>
+    <string name="save">Save</string>
+    <string name="read">Read</string>
+</resources>
